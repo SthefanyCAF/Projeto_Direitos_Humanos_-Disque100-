@@ -54,7 +54,7 @@ Perfil do agressor e vínculos com a vítima para entender dinâmicas de violên
 ![Dados Suspeito](./06_ASSETS/4%20-%20Dados%20Suspeito.png)
 
 ### 5. Localização
-Mapeamento geográfico das denúncias por UF e Município.
+Mapeamento geográfico das denúncias por UF, renda, escolaridade e tipos de doença rara.
 ![Localizações](./06_ASSETS/5%20-%20Localizações.png)
 
 ## 📁 Estrutura do Repositório
