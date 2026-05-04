@@ -25,11 +25,11 @@ Lidar com 16 milhões de linhas exigiu técnicas avançadas de gerenciamento e t
     *   Limpeza e saneamento de valores nulos e colunas em branco para garantir a integridade das métricas.
     *   **Conversão de Dados:** Tipagem otimizada para `VARCHAR` e `INT` visando ganho de performance no processamento.
     *   **Transformação:** Conversão de formatos de data e hora e extração de atributos específicos a partir de colunas complexas.
-    *   
+      
 *   **Performance em SQL Server:** 
     *   Implementação de compressão de dados (**ROW COMPRESSION**) reduzindo o consumo de HD em até 50%.
     *   Manutenção de Big Data: Gerenciamento de memória RAM via limpeza de cache (**Buffer Pool**) e recuperação de espaço via **SHRINKDATABASE**.
-    *   
+       
 *   **Modelagem no Power BI:** 
     *   Criação de medidas em **DAX** para análise de tendências e indicadores de violação.
     *   Layout estruturado com foco em UX/UI, utilizando modelos gráficos desenvolvidos no **Figma**.
